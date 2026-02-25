@@ -90,7 +90,7 @@ Data Modeling → Statistical Analysis → KPI Structuring → AI-Assisted Insig
 
 **Master’s Degree – English**
 
-**Uniersity - IGNOU
+**Uniersity - IGNOU**
 
 ---
 
