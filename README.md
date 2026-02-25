@@ -82,11 +82,15 @@ Data Modeling → Statistical Analysis → KPI Structuring → AI-Assisted Insig
 
 ## 🎓 Certifications & Education  
 
-**Certified Data Analyst – IABAC & Datamites**  
+**Certified Data Analyst – IABAC & Datamites**
+
+**Bachelor's Degree -  English Honours**
+
+**University - BU**
 
 **Master’s Degree – English**
 
-**From B.B. College Asansol University - IGNOU**  
+**Uniersity - IGNOU
 
 ---
 
