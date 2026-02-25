@@ -82,9 +82,9 @@ Data Modeling → Statistical Analysis → KPI Structuring → AI-Assisted Insig
 
 ## 🎓 Certifications & Education  
 
-**Certified Data Analyst – IABAC (Datamites)**  
-
-**Master’s Degree – IGNOU**  
+**Certified Data Analyst – IABAC & Datamites**  
+**Internship - Data Analyst Consultant From Rubixe Bangalore**
+**Master’s Degree – English Percentage - 55.38 From B.B. College Asansol University - IGNOU**  
 
 ---
 
