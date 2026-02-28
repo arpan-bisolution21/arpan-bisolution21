@@ -5,23 +5,21 @@
 
 ## 🚀 Executive Positioning  
 
-Business Intelligence Data Analyst focused on transforming operational and transactional data into structured, KPI-driven decision intelligence.
+Business Intelligence Data Analyst focused on transforming Operational and Transactional Data into Structured, KPI-Driven Decision Intelligence.
 
-Specialized in performance analysis, variance diagnostics, and executive dashboard engineering using Power BI and SQL-based data modeling.
+Specialized in Performance Analysis, Variance Diagnostics, and Executive Dashboard Engineering using Power BI and SQL-Based Data Querying.
 
-I operate with a disciplined analytical framework designed to convert raw datasets into measurable business value.
+I operate with a Disciplined Analytical Framework designed to convert Raw Datasets into Measurable Business Value.
 
 ---
 
 ## 🧩 Strategic Differentiation  
 
-What sets me apart:
-
-- KPI-First analytical mindset (metrics before visuals)  
-- Structured statistical reasoning before interpretation  
-- Executive-Ready dashboard architecture  
-- Precision in data validation and preprocessing  
-- AI-Augmented insight synthesis using LLMs (GPTs)  
+- KPI-First Analytical Mindset (Metrics before Visuals)  
+- Structured Statistical Reasoning before Interpretation  
+- Executive-Ready Dashboard Architecture  
+- Precision in Data Validation and Preprocessing  
+- AI-Augmented Insight Synthesis using LLMs (GPTs)  
 
 I do not just build reports — I build decision systems.
 
@@ -56,13 +54,13 @@ I do not just build reports — I build decision systems.
 ### **Data Analyst Consultant Intern**  
 **Rubixe | May 2023 – Nov 2023**
 
-- Contributed to multiple client Proof-of-Concept analytical engagements  
-- Converted raw business datasets into actionable intelligence  
-- Designed structured dashboards and reporting solutions  
-- Delivered high-accuracy analytical outputs under strict timelines  
-- Recognized for diligence, reliability, and analytical discipline  
+- Contributed to Multiple Client Proof-Of-Concept Analytical Engagements  
+- Converted Raw Business Datasets into Actionable Intelligence  
+- Designed Structured Dashboards and Reporting Solutions  
+- Delivered High-Accuracy Analytical Outputs under Strict Timelines  
+- Recognized for Diligence, Reliability, and Analytical Discipline  
 
-This experience strengthened my ability to operate within real-world business constraints while maintaining analytical precision.
+This experience strengthened my ability to operate within Real-World Business Constraints while Maintaining Analytical Precision.
 
 ---
 
@@ -70,10 +68,10 @@ This experience strengthened my ability to operate within real-world business co
 
 Beyond conventional BI workflows, I integrate Large Language Models (LLMs) such as GPTs after Exploratory Data Analysis to:
 
-- Transform quantitative outputs into executive-level narratives  
-- Identify business implications across multi-variable trends  
-- Support scenario interpretation and performance forecasting  
-- Enhance strategic communication clarity  
+- Transform Quantitative Outputs into Executive-Level Narratives  
+- Identify Business Implications across Multi-Variable Trends  
+- Support Scenario Interpretation and Performance Forecasting  
+- Enhance Strategic Communication Clarity  
 
 **Framework:**  
 Data Modeling → Statistical Analysis → KPI Structuring → AI-Assisted Insight Refinement → Executive Reporting  
