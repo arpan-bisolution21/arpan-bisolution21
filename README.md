@@ -21,7 +21,7 @@ What sets me apart:
 - Structured statistical reasoning before interpretation  
 - Executive-ready dashboard architecture  
 - Precision in data validation and preprocessing  
-- AI-augmented insight synthesis using LLMs (GPT)  
+- AI-augmented insight synthesis using LLMs (GPTs)  
 
 I do not just build reports — I build decision systems.
 
@@ -68,7 +68,7 @@ This experience strengthened my ability to operate within real-world business co
 
 ## 🤖 AI-Augmented Business Intelligence  
 
-Beyond conventional BI workflows, I integrate Large Language Models (LLMs) such as GPT after statistical analysis to:
+Beyond conventional BI workflows, I integrate Large Language Models (LLMs) such as GPTs after Exploratory Data Analysis to:
 
 - Transform quantitative outputs into executive-level narratives  
 - Identify business implications across multi-variable trends  
