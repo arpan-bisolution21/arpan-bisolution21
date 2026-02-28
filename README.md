@@ -35,7 +35,7 @@ I do not just build reports — I build decision systems.
 - Relational Data Modeling  
 - DAX Business Measures  
 - Performance Benchmarking  
-- Operational & Financial Trend Analysis  
+- Operational & Market Trend Analysis  
 
 ### 📈 Advanced Data Analysis  
 - Exploratory Data Analysis (EDA)  
