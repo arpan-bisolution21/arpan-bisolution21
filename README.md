@@ -17,11 +17,11 @@ I operate with a disciplined analytical framework designed to convert raw datase
 
 What sets me apart:
 
-- KPI-first analytical mindset (metrics before visuals)  
+- KPI-First analytical mindset (metrics before visuals)  
 - Structured statistical reasoning before interpretation  
-- Executive-ready dashboard architecture  
+- Executive-Ready dashboard architecture  
 - Precision in data validation and preprocessing  
-- AI-augmented insight synthesis using LLMs (GPTs)  
+- AI-Augmented insight synthesis using LLMs (GPTs)  
 
 I do not just build reports — I build decision systems.
 
@@ -42,7 +42,7 @@ I do not just build reports — I build decision systems.
 - Variance & Comparative Diagnostics  
 - Descriptive Statistical Evaluation  
 - Root Cause Identification  
-- Excel-based Predictive Modeling  
+- Excel-Based Predictive Modeling  
 
 ### 🗄 Data Querying & Transformation  
 - MySQL (Single & Multi-table Analysis)  
