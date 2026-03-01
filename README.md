@@ -60,7 +60,7 @@ I do not just build reports — I build decision systems.
 - Delivered High-Accuracy Analytical Outputs under Strict Timelines  
 - Recognized for Diligence, Reliability, and Analytical Discipline  
 
-This experience strengthened my ability to operate within Real-World Business Constraints while Maintaining Analytical Precision.
+This experience strengthened my ability to operate within Real-World Business Constraints while maintaining Analytical Precision.
 
 ---
 
