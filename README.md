@@ -1,11 +1,11 @@
 # Arpan Das  
-## *Business Intelligence Data Analyst*
+## *An Aspiring Business Intelligence Data Analyst*
 
 ---
 
 ## 🚀 Executive Positioning  
 
-Business Intelligence Data Analyst focused on transforming Operational and Transactional Data into Structured, KPI-Driven Decision Intelligence.
+I am an Aspiring Business Intelligence Data Analyst focused on transforming Operational and Transactional Data into Structured, KPI-Driven Decision Intelligence.
 
 Specialized in Performance Analysis, Variance Diagnostics, and Executive Dashboard Engineering using Power BI and SQL-Based Data Querying.
 
