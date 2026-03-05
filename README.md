@@ -43,7 +43,7 @@ I do not just build reports — I build decision systems.
 - Excel-Based Predictive Modeling  
 
 ### 🗄 Data Querying & Transformation  
-- MySQL (Single & Multi-table Analysis)  
+- Fundamental Database Administration and Business Data Querying using MySQL  
 - Joins, Aggregations, Filtering  
 - Data Cleaning & Integrity Validation  
 
