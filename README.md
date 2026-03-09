@@ -44,7 +44,7 @@ I do not just build reports — I build decision systems.
 
 ### 🗄 Data Querying & Transformation  
 - Fundamental Database Administration and Business Data Querying using MySQL  
-- Joins, Aggregations, Filtering  
+- Aggregations, Soritng & Filtering, CASE Statements, Joins, Sub-Queries, CTEs, Window Functions 
 - Data Cleaning & Integrity Validation  
 
 ---
