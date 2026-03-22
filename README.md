@@ -84,7 +84,7 @@ Data Modeling → Statistical Analysis → KPI Structuring → AI-Assisted Insig
 - Bachelor's Degree - English Honours | Year : 2005-09 | Percentage - 50.12
 - University - BU
 - Master’s Degree – English | Year : 2009-12 | Percentage - 55.38
-- Uniersity - IGNOU
+- University - IGNOU
 
 ---
 
